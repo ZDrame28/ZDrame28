@@ -10,8 +10,8 @@
 
 ### À propos de moi
 
-*   🎓 Actuellement étudiant en 3ème année de BUT Informatique à l'Université d'Orléans. 
-*   🎯 Mon but est de gravir les échelons et de me faire un nom dans la société. Pour l'instant je suis à la recherche d'un stage de 3ème Année d'une durée minimum de 14 à 16 semaines.
+*   🎓 **Mes études :** Actuellement étudiant en 3ème année de BUT Informatique à l'Université d'Orléans. 
+*   🎯 **Mon ambition et ma recherche :** Mon but est de gravir les échelons et de me faire un nom dans la société. Pour l'instant, je suis activement à la recherche d'un stage en développement logiciel ou web d'une durée minimum de 14 à 16 semaines, à partir du **15 février 2027**.
 
 ---
 
@@ -55,6 +55,7 @@ Conception et développement de DELTIME, un outil web complet (frontend et backe
 ### 🎓 Formation
 
 **BUT Informatique** — Université d'Orléans *(depuis sept. 2024)*
+
 **Baccalauréat Général** — Spécialités Mathématiques et Sciences de l'Ingénieur, Lycée Silvia Monfort *(2021–2024)*
 
 ---
