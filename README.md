@@ -1,5 +1,7 @@
 <div align="left">
 
+<div align="center">
+
 # Zakharia Drame
 
 ### Développeur logiciel · web · mobile
@@ -7,18 +9,31 @@
 <strong>Étudiant en 3ème année de BUT Informatique</strong><br>
 Université d'Orléans · France
 
+</div>
+
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=0A66C2&center=false&vCenter=true&width=560&lines=Build+%E2%80%A2+Create+%E2%80%A2+Improve;Web+%E2%80%A2+Mobile+%E2%80%A2+Software;Ideas+into+useful+applications" alt="Animation de présentation">
 
 <br><br>
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/GitHub-ZDrame28-181717?style=for-the-badge&logo=github)](https://github.com/ZDrame28)
 [![Email](https://img.shields.io/badge/Me_contacter-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakhariadrame@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakharia_Dram%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakharia-dram%C3%A9-100928353/)
 
+</div>
+
+<img src="assets/pixel-banner.svg" alt="Bannière pixel art code et football" width="100%">
+
 <br>
+
+<div align="center">
+
 <a href="#projets"><strong>Explorer mes projets ↓</strong></a>
+
+</div>
 
 </div>
 
@@ -55,6 +70,8 @@ Les logos sont cliquables et renvoient vers les documentations officielles.
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="48"></a>
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48"></a>
 <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48"></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="48"></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"></a>
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48"></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="48"></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48"></a>
@@ -110,23 +127,6 @@ Gestion de stocks avec base de données et travail en équipe.
 </td>
 </tr>
 </table>
-
-## 📊 Activité GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ZDrame28&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=444444&bg_color=ffffff" alt="Statistiques GitHub de Zakharia Drame" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZDrame28&layout=compact&hide_border=true&title_color=0A66C2&text_color=444444&bg_color=ffffff" alt="Langages les plus utilisés" height="165">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.demolab.com?user=ZDrame28&theme=default&hide_border=true&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="Série d'activité GitHub" height="165">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZDrame28&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophées GitHub" width="700">
-
-</div>
 
 ## 🎓 Formation
 

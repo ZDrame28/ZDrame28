@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel art code and city banner</title>
+  <desc id="desc">A pixel-art inspired football field, ball and city skyline in blue tones.</desc>
+  <rect width="1200" height="260" fill="#101827"/>
+  <rect y="188" width="1200" height="72" fill="#183b45"/>
+  <rect y="204" width="1200" height="4" fill="#2c6870"/>
+  <rect x="0" y="224" width="1200" height="4" fill="#0a66c2"/>
+  <rect x="24" y="160" width="60" height="28" fill="#1e5360"/>
+  <rect x="92" y="142" width="42" height="46" fill="#23616a"/>
+  <rect x="144" y="124" width="58" height="64" fill="#1b4b58"/>
+  <rect x="212" y="151" width="48" height="37" fill="#28727a"/>
+  <rect x="270" y="132" width="76" height="56" fill="#17434f"/>
+  <rect x="356" y="158" width="54" height="30" fill="#286974"/>
+  <rect x="425" y="118" width="68" height="70" fill="#153c4c"/>
+  <rect x="510" y="148" width="52" height="40" fill="#2a6570"/>
+  <rect x="580" y="130" width="88" height="58" fill="#193f4e"/>
+  <rect x="690" y="154" width="52" height="34" fill="#286974"/>
+  <rect x="760" y="118" width="72" height="70" fill="#153c4c"/>
+  <rect x="850" y="145" width="52" height="43" fill="#23616a"/>
+  <rect x="920" y="128" width="92" height="60" fill="#194554"/>
+  <rect x="1030" y="153" width="48" height="35" fill="#2a6570"/>
+  <rect x="1094" y="137" width="82" height="51" fill="#163d4b"/>
+  <g fill="#f5c451">
+    <rect x="107" y="151" width="8" height="8"/><rect x="159" y="138" width="8" height="8"/>
+    <rect x="287" y="144" width="8" height="8"/><rect x="445" y="130" width="8" height="8"/>
+    <rect x="609" y="143" width="8" height="8"/><rect x="784" y="130" width="8" height="8"/>
+    <rect x="948" y="141" width="8" height="8"/><rect x="1120" y="149" width="8" height="8"/>
+  </g>
+  <g fill="none" stroke="#70d6d0" stroke-width="4">
+    <rect x="38" y="42" width="184" height="104"/>
+    <path d="M38 94h184M130 42v104"/>
+    <circle cx="130" cy="94" r="28"/>
+  </g>
+  <g fill="#f5c451">
+    <rect x="116" y="76" width="28" height="8"/><rect x="108" y="84" width="44" height="8"/>
+    <rect x="100" y="92" width="60" height="16"/><rect x="108" y="108" width="44" height="8"/>
+    <rect x="116" y="116" width="28" height="8"/>
+  </g>
+  <g fill="#f5c451">
+    <rect x="292" y="70" width="12" height="12"/><rect x="304" y="58" width="12" height="12"/>
+    <rect x="316" y="70" width="12" height="12"/><rect x="304" y="82" width="12" height="12"/>
+    <rect x="304" y="70" width="12" height="12"/>
+  </g>
+  <g fill="#d9f4f0" font-family="monospace" font-size="30" font-weight="700">
+    <text x="390" y="78">CODE</text>
+    <text x="390" y="118" fill="#70d6d0">CREATE</text>
+    <text x="390" y="158" fill="#f5c451">PLAY</text>
+  </g>
+  <g fill="#70d6d0">
+    <rect x="832" y="60" width="12" height="12"/><rect x="856" y="60" width="12" height="12"/>
+    <rect x="880" y="60" width="12" height="12"/><rect x="904" y="60" width="12" height="12"/>
+    <rect x="928" y="60" width="12" height="12"/>
+  </g>
+  <g fill="#f5c451"><rect x="832" y="84" width="108" height="8"/><rect x="832" y="100" width="76" height="8"/></g>
+  <g fill="#0a66c2"><rect x="20" y="238" width="8" height="8"/><rect x="36" y="238" width="8" height="8"/><rect x="52" y="238" width="8" height="8"/></g>
+</svg>
